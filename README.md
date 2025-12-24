@@ -181,11 +181,4 @@ http://localhost:8501
    - Confidence
    - Grafik probabilitas per kelas
 
----
 
-## 8) Catatan (Opsional untuk Pengembangan)
-Beberapa ide peningkatan performa:
-- Menyeimbangkan dataset (oversampling atau class weight)
-- Menambah data validasi
-- Fine-tuning ResNet50 lebih terkontrol dengan learning rate lebih kecil
-- Menambahkan confusion matrix sebagai evaluasi tambahan
